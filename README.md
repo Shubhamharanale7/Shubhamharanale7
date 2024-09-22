@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Golang Devops 
 - 💞️ I’m looking to collaborate on Golang-related Projects and startups.
 - 📫 Reach me Shubhaminfosoft7@gmail.com
+- https://x.com/ShubhamHaranal1
 
 <!---
 Shubhamharanale7/Shubhamharanale7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
