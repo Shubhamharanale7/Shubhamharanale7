@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubhamharanale7
 - 👀 I’m interested in Golang Devops Projects
-- 🌱 I’m currently learning Golang Devops 
+- 🌱 I’m currently Working Golang Devops 
 - 💞️ I’m looking to collaborate on Golang-related Projects and startups.
 - 📫 Reach me Shubhaminfosoft7@gmail.com
 - https://x.com/ShubhamHaranal1
