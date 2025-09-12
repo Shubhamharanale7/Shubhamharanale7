@@ -3,6 +3,8 @@
 - 🌱 I’m currently Working Golang Devops 
 - 💞️ I’m looking to collaborate on Golang-related Projects and startups.
 - 📫 Reach me Shubhaminfosoft7@gmail.com
+- I love working in the Cloud Computing field (AWS, AZURE, GCP)
+- Python is my First love!!
 - https://x.com/ShubhamHaranal1
 - https://in.linkedin.com/in/shubham-haranale-551733338
 
